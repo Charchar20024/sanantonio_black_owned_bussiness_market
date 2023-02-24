@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-<img src="Walkthrough.gif" width='700px' alt='Video Walkthrough'>
+<img src="Walkthrough.gif" width='1000px' alt='Video Walkthrough'>
 
 ## License
 
