@@ -4,7 +4,7 @@ Submitted by: **Charidi Stevens**
 
 This web app:  **San Antonio Black Owned Bussiness Market** is a community board of black owned businesses in the area of San Antonio, Texas! This project was inspired by a Black Owned Bussiness Market event that was helded at my university, most of the bussiness that attended the event are included in this web app as well as other local bussiness that I discovered online.
 
-Deployed Application: [SA - BOBM Deployed Site](https://sabobm.netlify.app/)
+Deployed Application: [SA - BOBM Deployed Site](https://melodic-beignet-9d9a51.netlify.app)
 
 Time spent: **8** hours spent in total
 
