@@ -1,0 +1,9 @@
+.resources-page{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center; 
+    position: relative;
+    z-index: 9999; 
+    background-color: white;
+}
