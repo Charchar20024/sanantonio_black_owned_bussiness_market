@@ -18,14 +18,14 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Buttons or links to a related resources are on each card component
-- [X] The site is responsive for both desktop and mobile formats
+- [] The site is responsive for both desktop and mobile formats
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 
-<img src="Walkthrough.gif" width='1000px' alt='Video Walkthrough'>
+<img src="Walkthrough.gif" width='700px' alt='Video Walkthrough'>
 
 ## License
 
