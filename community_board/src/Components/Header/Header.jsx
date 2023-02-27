@@ -1,25 +1,11 @@
-import logo from '../assets/logo.png'
 import './Header.css'
+
+import Logo from '../Logo/Logo'
 
 function Header() {
     return (
         <div className='header'>
-            <img className='logo' src={logo}/>
-            <div className='background'>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
+            <Logo />
         </div>
     )
 }

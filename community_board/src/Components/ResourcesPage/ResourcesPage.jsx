@@ -6,7 +6,6 @@ function ResourcesPage() {
     return (
         <div className='resources-page'>
             <Cards />
-    
         </div>
     )
 }
